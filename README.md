@@ -2,6 +2,12 @@
 
 ## Custom Assets and Config Files
 
-Copy the `dod_addon` directory from this repository and paste it into the `Half-Life` directory located in the Steam installation path, along with the `dod` directory.
+Transfer the `dod` folder from this repository into the `Half-Life` folder within your Steam installation directory.
 
-Here are some recommended launch options: `-high -nojoy -nomsaa`
+You'll be asked to overwrite the current directory and files.
+
+Additionally, it's advisable to set the current `dod/config.cfg` file to `Read-only` to prevent any modifications.
+
+### Extras
+
+Consider using these launch parameters: `-high -nojoy -nomsaa`
