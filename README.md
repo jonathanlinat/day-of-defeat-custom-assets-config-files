@@ -4,6 +4,8 @@
 | --------------------------- |
 | [![](https://dcbadge.vercel.app/api/server/dodcommunity?style=plastic)](https://discord.gg/dodcommunity) |
 
+[![Gametracker](https://cache.gametracker.com/profile/enyb0la/b_460x42_C2E3226-5A6C3E-383F2D-D2E1B5-FF9900-FFCC00.png)](https://www.gametracker.com/enyb0la/)
+
 ## Installation
 
 Transfer the `dod` folder from this repository into the `Half-Life` folder within your Steam installation directory.
