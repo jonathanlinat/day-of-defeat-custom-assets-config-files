@@ -4,6 +4,8 @@
 | --------------------------- |
 | [![](https://dcbadge.vercel.app/api/server/dodcommunity?style=plastic)](https://discord.gg/dodcommunity) |
 
+[![b_560x95](https://github.com/jonathanlinat/day-of-defeat-custom-assets-config-files/assets/14064112/4bc8271d-cbbd-4c3c-8427-af8fcb2800ba)](https://www.gametracker.com/player/EnYB0La/)
+
 ## Installation
 
 Transfer the `dod` folder from this repository into the `Half-Life` folder within your Steam installation directory.
