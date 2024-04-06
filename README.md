@@ -1,4 +1,4 @@
-# Day of Defeat: Custom Assets and Config Files
+# Day of Defeat 1.3: Custom Assets and Config Files
 
 | 💬 Join an Active Community |
 | --------------------------- |
