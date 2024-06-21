@@ -20,7 +20,7 @@
 
 ### Launch Options
 
-Consider using these additional launch options: `-high -nojoy -nomsaa`
+Consider using these additional launch options: `-realtime -tickrate`
 
 ### `_cvarlist.cfg`
 
