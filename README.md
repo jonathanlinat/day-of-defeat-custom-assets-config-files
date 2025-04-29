@@ -11,7 +11,7 @@
 ## Installation
 
 1. Transfer the `dod_addon` folder from this repository into the `Half-Life` folder within your Steam installation directory.
-1. Edit the properties of the game in Steam and set the following launch option to [enable addon content](https://developer.valvesoftware.com/wiki/GoldSrc/SteamPipe_directories#.3Cbase.3E.2F.3Cmod.3E_addon): `-addon`.
+1. Edit the properties of the game in Steam and set the following launch option to [enable addon content](https://developer.valvesoftware.com/wiki/GoldSrc/SteamPipe_directories#.3Cbase.3E.2F.3Cmod.3E_addon).
 
 > [!NOTE]
 > It's advisable to set the current `dod/config.cfg` file to `Read-only` to prevent any modifications.
